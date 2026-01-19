@@ -83,12 +83,9 @@ Designed for analysts and operations teams to explore deeper insights.
 - **Units Sold:** Total quantity sold  
 - **Average Order Value (AOV):** Revenue per order  
 
----
+## 📐 Key DAX Measures Used
 
-## 🧮 Key DAX Measures
-
--DAX
-
+```DAX
 Total Revenue = SUM(Sales[Sales])
 
 Total Orders = DISTINCTCOUNT(Sales[Order_ID])
@@ -98,6 +95,9 @@ Net Profit = SUM(Sales[Profit])
 Units Sold = SUM(Sales[Quantity])
 
 AOV = DIVIDE([Total Revenue], [Total Orders])
+```
+
+---
 
 
 ├── Dashboard/      # Power BI (.pbix) file
