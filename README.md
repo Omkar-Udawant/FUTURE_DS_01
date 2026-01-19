@@ -92,11 +92,16 @@ AOV = DIVIDE([Total Revenue], [Total Orders])
 
 ---
 
+---
 
-├── Dashboard/      # Power BI (.pbix) file
-├── Dataset/        # Dataset used
-├── Screenshots/    # Dashboard screenshots
-└── README.md       # Project documentation
+## 🛠️ Tools & Technologies Used
+
+- **Power BI Desktop** – Dashboard creation & visualization  
+- **Python (Pandas)** – Data cleaning & preprocessing  
+- **CSV / Excel Dataset**  
+- **DAX (Data Analysis Expressions)** – KPI calculations  
+
+---
 
 ## 🔍 Key Insights & Findings
 
