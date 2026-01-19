@@ -2,8 +2,6 @@
 Data Science Task 1: Business Sales Performance Dashboard using Power BI.
 # 📊 Business Sales Dashboard | Power BI
 
-![Dashboard Preview](link-to-your-dashboard-image.png)
-
 ## 🛠️ Tool | Power BI  
 ## 🌐 Domain | Data Science & Analytics  
 ## 🚀 Project | Completed  
@@ -51,8 +49,6 @@ This page dives deeper into state-wise sales, profit margins, and category perfo
 Special thanks to Future Interns for their support and guidance throughout this project.
 
 ## ✍️ Author
-Your Name
+Omkar Udawant
 
 ---
-
-This structure should give you a README that looks very similar to the example you shared. Just replace placeholders like the image links and your name with your actual details. Let me know if you need any more tweaks!
