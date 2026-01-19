@@ -1,31 +1,33 @@
-# 📊 Business Sales Dashboard | Power BI
+📊 Business Sales Dashboard | Power BI
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
 ![Domain](https://img.shields.io/badge/Domain-Data%20Science%20%26%20Analytics-blue)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 ![Internship](https://img.shields.io/badge/Internship-Future%20Interns-purple)
 
-## 🚀 Project Overview
-
-This project is developed as part of my Data Science & Analytics Internship at Future Interns. The goal is to analyze business sales data and design a professional, interactive Power BI dashboard that helps stakeholders understand performance trends and make data-driven decisions. The dashboard emphasizes business storytelling and actionable insights.
------
 
 
-## 🛠️ Tool | Power BI  
-## 🌐 Domain | Data Science & Analytics  
-## 🚀 Project | Completed  
-## 🏢 Internship | Future Interns
 
 
------
-Business Sales Dashboard | Power BI
-Project Overview
 
-This project is developed as part of my Data Science & Analytics Internship at Future Interns. The aim is to analyze business sales data and design a professional, interactive Power BI dashboard that helps stakeholders understand performance, trends, and opportunities.
+🚀 Project Overview
 
-The dashboard is all about business storytelling, allowing managers and decision-makers to take data-driven actions rather than just looking at numbers.
+This project was developed as part of my Data Science & Analytics Internship at Future Interns.
+The objective was to analyze business sales data and design a professional, interactive Power BI dashboard that enables stakeholders to understand performance, identify trends, and make data-driven decisions.
 
-Business Objectives
+The dashboard focuses on business storytelling, transforming raw data into actionable insights rather than just numbers.
+
+🛠️ Tools & Technologies
+
+Power BI Desktop – Dashboard design & visualization
+
+Python (Pandas) – Data cleaning & preprocessing
+
+DAX (Data Analysis Expressions) – KPI calculations
+
+CSV / Excel – Dataset format
+
+🎯 Business Objectives
 
 This dashboard answers key business questions such as:
 
@@ -33,7 +35,7 @@ What is the overall revenue, profit, and order volume?
 
 How do sales and profits trend over time?
 
-Which categories and sub-categories drive the most revenue?
+Which categories and sub-categories generate the most revenue?
 
 Which regions and states perform best?
 
@@ -41,18 +43,17 @@ How does sales compare with profit across categories?
 
 Which customer segments contribute the most revenue?
 
-## 🖼️ Dashboard Pages Overview
+🖼️ Dashboard Pages Overview
+🔹 Page 1: Sales Performance Overview
 
-### 🔹 Page 1: Sales Performance Overview
-![Page 1 Dashboard](https://github.com/Omkar-Udawant/FUTURE_DS_01/blob/main/Screenshots/PAGE1.png)
+Purpose:
+Provides top-level management with a quick snapshot of overall business performance.
 
-This page gives top-level management a quick snapshot of business performance.
-
-Key Visuals & KPIs:
+Key KPIs & Visuals:
 
 Total Revenue
 
-Number of Orders
+Total Orders
 
 Net Profit
 
@@ -60,78 +61,76 @@ Units Sold
 
 Average Order Value (AOV)
 
-Monthly Revenue and Profit Trends by Year
+Monthly Revenue & Profit Trends (Year-wise)
 
 Category-wise Revenue Share
 
 Regional Revenue Distribution
 
-Year Slicer for dynamic filtering
+Year slicer for dynamic filtering
 
-### 🔹 Page 2: Detailed Sales & Profit Analysis
-![Page 2 Dashboard](https://github.com/Omkar-Udawant/FUTURE_DS_01/blob/main/Screenshots/PAGE2.png)
+🔹 Page 2: Detailed Sales & Profit Analysis
 
-This page is for business analysts and operations teams to dive deeper into the data.
+Purpose:
+Designed for analysts and operations teams to explore deeper insights.
 
 Key Visuals:
 
 Top States by Revenue
 
-Revenue Contribution by Customer Segment
+Revenue by Customer Segment
 
-Geographic Distribution of Revenue (U.S.)
+Geographic Revenue Distribution (U.S. Map)
 
-Revenue Trend Over Time (Daily Granularity)
+Daily Revenue Trend Analysis
 
-## 📊 Key Visuals & KPIs
-- **Total Revenue:** Overall revenue generated.
-- **Profit Margin:** Calculated as total profit divided by total sales.
-- **Category Performance:** Highlights top-selling product categories.
+📊 Key KPIs Explained
 
-Tools & Technologies Used
+Total Revenue: Total sales generated
 
-Power BI Desktop – Dashboard creation & visualization
+Total Orders: Unique order count
 
-Python (Pandas) – Data cleaning & preprocessing
+Net Profit: Total profit earned
 
-CSV / Excel Dataset
+Units Sold: Total quantity sold
 
-DAX (Data Analysis Expressions) – KPI calculations
+Average Order Value (AOV): Revenue per order
 
-
-
-## 🧩 Key DAX Measures Used
+🧮 Key DAX Measures
 Total Revenue = SUM(Sales[Sales])
 Total Orders = DISTINCTCOUNT(Sales[Order_ID])
 Net Profit = SUM(Sales[Profit])
 Units Sold = SUM(Sales[Quantity])
 AOV = DIVIDE([Total Revenue], [Total Orders])
 
-Dashboard Design & Theme
+🎨 Dashboard Design & Theme
 
-Dark Mode dashboard for a premium, modern look
+Dark mode dashboard for a premium, modern look
 
 Clean and minimal layout for better readability
 
-Consistent color palette across all visuals
+Consistent color palette across visuals
 
-Focus on clarity, insights, and decision-making
+Designed with a strong focus on clarity, insights, and decision-making
 
-## 📂 Repository Structure
-- **`Dashboard/`**: Contains the Power BI `.pbix` file.
-- **`Dataset/`**: Includes the dataset used (if applicable).
-- **`Screenshots/`**: Screenshots of the dashboard pages.
-- **`README.md`**: This file.
+📂 Repository Structure
+├── Dashboard/      # Power BI (.pbix) file
+├── Dataset/        # Dataset used
+├── Screenshots/    # Dashboard screenshots
+└── README.md       # Project documentation
 
-## 🔍 Key Insights and Findings
-- The South region outperformed other regions in total sales.
-- Technology products were the highest contributors to revenue.
-- Seasonal trends were observed, with Q3 showing peak sales.
+🔍 Key Insights & Findings
 
-## 🙏 Acknowledgements
-Special thanks to Future Interns for their support and guidance throughout this project.
+The South region outperformed other regions in total sales
 
-## ✍️ Author
+Technology products were the highest revenue contributors
+
+Seasonal trends observed, with peak sales in Q3
+
+🙏 Acknowledgements
+
+Special thanks to Future Interns for their guidance and support throughout this internship project.
+
+✍️ Author
+
 Omkar Udawant
-
----
