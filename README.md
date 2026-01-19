@@ -75,13 +75,6 @@ Designed for analysts and operations teams to explore deeper insights.
 
 ---
 
-## 📊 Key KPIs Explained
-
-- **Total Revenue:** Total sales generated  
-- **Total Orders:** Unique order count  
-- **Net Profit:** Total profit earned  
-- **Units Sold:** Total quantity sold  
-- **Average Order Value (AOV):** Revenue per order  
 
 ## 📐 Key DAX Measures Used
 
