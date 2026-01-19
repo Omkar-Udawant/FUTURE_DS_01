@@ -18,7 +18,7 @@ This project is developed as part of my Data Science & Analytics Internship at F
 ## 🖼️ Dashboard Pages Overview
 
 ### 🔹 Page 1: Sales Performance Overview
-![Page 1 Dashboard](link-to-page-1-image.png)
+![Page 1 Dashboard](https://github.com/Omkar-Udawant/FUTURE_DS_01/blob/main/Screenshots/PAGE1.png)
 
 Designed for top-level management, this page provides a quick snapshot of key metrics, including total revenue, orders, profit, and units sold, along with monthly trends and regional distribution.
 
