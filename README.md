@@ -90,9 +90,13 @@ Designed for analysts and operations teams to explore deeper insights.
 -DAX
 
 Total Revenue = SUM(Sales[Sales])
+
 Total Orders = DISTINCTCOUNT(Sales[Order_ID])
+
 Net Profit = SUM(Sales[Profit])
+
 Units Sold = SUM(Sales[Quantity])
+
 AOV = DIVIDE([Total Revenue], [Total Orders])
 
 
@@ -122,4 +126,5 @@ Their guidance, mentorship, and structured internship program played a vital rol
 ## ✍️ Author
 
 **Omkar Udawant**  
+Data Science & Analytics Intern – Future Interns
 
