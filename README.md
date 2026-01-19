@@ -87,17 +87,20 @@ Designed for analysts and operations teams to explore deeper insights.
 
 ## 🧮 Key DAX Measures
 
-```DAX
+-DAX
+
 Total Revenue = SUM(Sales[Sales])
 Total Orders = DISTINCTCOUNT(Sales[Order_ID])
 Net Profit = SUM(Sales[Profit])
 Units Sold = SUM(Sales[Quantity])
 AOV = DIVIDE([Total Revenue], [Total Orders])
 
+
 ├── Dashboard/      # Power BI (.pbix) file
 ├── Dataset/        # Dataset used
 ├── Screenshots/    # Dashboard screenshots
 └── README.md       # Project documentation
+
 ## 🔍 Key Insights & Findings
 
 - The **South region** emerged as the top-performing region, contributing the highest share of total revenue.
@@ -119,7 +122,4 @@ Their guidance, mentorship, and structured internship program played a vital rol
 ## ✍️ Author
 
 **Omkar Udawant**  
-
-📊 *Aspiring Data Scientist & Data Analyst*  
-🛠️ *Power BI | Python | Pandas | DAX | Data Visualization*  
 
