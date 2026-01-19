@@ -2,16 +2,19 @@
 Data Science Task 1: Business Sales Performance Dashboard using Power BI.
 # 📊 Business Sales Dashboard | Power BI
 
+## 🚀 Project Overview
+
+This project is developed as part of my Data Science & Analytics Internship at Future Interns. The goal is to analyze business sales data and design a professional, interactive Power BI dashboard that helps stakeholders understand performance trends and make data-driven decisions. The dashboard emphasizes business storytelling and actionable insights.
+-----
+
+
 ## 🛠️ Tool | Power BI  
 ## 🌐 Domain | Data Science & Analytics  
 ## 🚀 Project | Completed  
 ## 🏢 Internship | Future Interns
 
----
 
-## 🚀 Project Overview
-
-This project is developed as part of my Data Science & Analytics Internship at Future Interns. The goal is to analyze business sales data and design a professional, interactive Power BI dashboard that helps stakeholders understand performance trends and make data-driven decisions. The dashboard emphasizes business storytelling and actionable insights.
+-----
 
 ## 🖼️ Dashboard Pages Overview
 
