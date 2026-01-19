@@ -23,7 +23,7 @@ This project is developed as part of my Data Science & Analytics Internship at F
 Designed for top-level management, this page provides a quick snapshot of key metrics, including total revenue, orders, profit, and units sold, along with monthly trends and regional distribution.
 
 ### 🔹 Page 2: Detailed Sales & Profit Analysis
-![Page 2 Dashboard](link-to-page-2-image.png)
+![Page 2 Dashboard](https://github.com/Omkar-Udawant/FUTURE_DS_01/blob/main/Screenshots/PAGE2.png)
 
 This page dives deeper into state-wise sales, profit margins, and category performance, providing a granular view for detailed analysis.
 
